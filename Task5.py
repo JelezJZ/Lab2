@@ -1,4 +1,3 @@
-from distutils.filelist import findall
 import re
 def main():
     text = input("Введите строку: ")
